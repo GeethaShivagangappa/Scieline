@@ -26,10 +26,6 @@ public class LoginPageTest extends TestBase{
 		PMpage = new ProjectManagementPage();	
 	}
 	
-	
-	
-	
-	
 	@Test()
 	public void ProjectManagementAction()
 	{
